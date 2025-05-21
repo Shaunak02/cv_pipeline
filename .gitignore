@@ -4,8 +4,6 @@ __pycache__/
 cv_pipeline/
 venv/
 env/
-yolov8_env/
-output/
+yolov8_env/	
 models/
-*.mp4
 *.avi
