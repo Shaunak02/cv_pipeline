@@ -1,6 +1,7 @@
 # .gitignore
 __pycache__/
 *.pyc
+cv_pipeline/
 venv/
 env/
 yolov8_env/
