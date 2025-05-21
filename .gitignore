@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.pyc
+venv/
+env/
+yolov8_env/
+output/
+models/
+*.mp4
+*.avi
